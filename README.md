@@ -1,6 +1,6 @@
 # Readcomic Online Downloader
 
-[![N|Solid](https://raw.githubusercontent.com/Xonshiz/ReadComicOnline-Downloader/master/favicon.ico)](https://github.com/Xonshiz/ReadComicOnline-Downloader)
+[![N|Solid](https://raw.githubusercontent.com/Xonshiz/ReadComicOnline-Downloader/master/favicon.ico)](https://github.com/JoGist)
 
 
 # Introduction
@@ -107,7 +107,7 @@ Check the "`Settings.ini`" file in this repo. and update it to your requirements
 
 ## Windows Binary
 It is recommended that windows users use this binary to save both, your head and time from installing all the dependencies. You can download the binary and start using the script right off the bat. Grab the respective binaries from the links below :
-* `x86 Systems` : [COMING SOON](#)
+
 * `x64 Systems` : [CLICK ME](https://drive.google.com/file/d/0B27CFrTCSppNeU56Tk5lR0ZJOTg/view)
 
 ## Usage
@@ -179,31 +179,3 @@ Because readcomiconline.to is behind CloudFlare, there's a limit to visit the si
 Thanks to [Gizmo179](https://github.com/gizmo179) for notifying me about the issue. Currently there's nothing I can do about it.
 
 Workaround for this Issue is by opening the website via your browser and verifying manually and then downloading chapters within a range. If that doesn't work, try downloading the chapters within a range after some time.
-
-## CHANGELOG
-* Re-Wrote the whole script for better understanding and flow.
-
-* Downloading of all the Issues available for a series.
-
-* Corresponding Directories for the series and an Issue.
-
-* File skipping, if the file already exists.
-
-* Error Log File creation.
-
-* Option to download Latest or Older releases.
-
-* Option to choose Quality of Images.
-
-* File name Fix and some Minor Bug Fix
-
-* Annual Issues are downloaded properly now.
-
-* Option to download certain chapters within a range.
-
-* Fix for #4
- 
-## Contributors:
-Thank you guys for pull requests and fixing silly issues.
-
-1.) [Efreak](https://github.com/Efreak)
