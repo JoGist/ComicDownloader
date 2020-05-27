@@ -2,8 +2,6 @@
 
 [![N|Solid](https://raw.githubusercontent.com/Xonshiz/ReadComicOnline-Downloader/master/favicon.ico)](https://github.com/Xonshiz/ReadComicOnline-Downloader)
 
-# This is not maintained anymore. Please check [Comic-dl](https://github.com/Xonshiz/comic-dl) instead.
-[Comic-dl](https://github.com/Xonshiz/comic-dl) is a command line tool to download manga and comic from various websites. It supports readcomiconline.to and is faster and better than this one.
 
 # Introduction
 ReadComic Online Downloader is a command line tool to download comics from http://readcomiconline.to/
