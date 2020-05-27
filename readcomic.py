@@ -6,11 +6,11 @@
 
 # pyinstaller.exe --onefile --icon=favicon.ico readcomic.py
 
-__author__      = "Xonshiz"
-__email__ = "Xonshiz@psychoticelites.com"
-__website__ = "http://www.psychoticelites.com"
-__version__ = "v2.2"
-__description__ = "Downloads Issues from http://readcomiconline.to/"
+__author__      = "JoGist"
+__email__ = "r.giovanni.98@gmail.com"
+__website__ = "https://github.com/JoGist"
+__version__ = "v2.3"
+__description__ = "A modified version of a tool for downloading Issues from http://readcomiconline.to/"
 __copyright__ = "None!"
 
 # A big thanks to 'c17r' for his help on getting the Regex checking done. More Info : https://www.reddit.com/r/learnpython/comments/4yq7it/regex_clashing_as_substring_regexes/d6pr39n
